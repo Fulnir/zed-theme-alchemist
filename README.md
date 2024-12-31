@@ -1,8 +1,10 @@
-# Alchemist-Theme
+# Zed Alchemist-Theme
 
 A color scheme with reference to the Elixir programming language.
 
-![](logo.png)
+<div id="header" align="center">
+   <img src="https://github.com/Fulnir/zed-theme-alchemist/blob/main/logo.png" width="128"/>
+</div>
 
 ## Color Palette
 
